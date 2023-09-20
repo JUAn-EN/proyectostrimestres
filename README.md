@@ -14,6 +14,7 @@ estos proyectos son variados aunque muy interecentes y me hicieron tener mucho c
 *axios
 *redis
 *response-time
+*nest
 
 ## lenguajes 
 *html
